@@ -2,7 +2,7 @@
 
 Travaux pratiques individuels, année universitaire 2026–2027.
 
-**Nom :  DABIRE Malyong Evrard
+Nom :  DABIRE Malyong Evrard
 
 
 ## TP 1 – Chiffrement authentifié et dérivation de clés
