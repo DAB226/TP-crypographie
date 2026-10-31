@@ -2,7 +2,8 @@
 
 Travaux pratiques individuels, année universitaire 2026–2027.
 
-**Nom :** _à compléter_
+**Nom :  DABIRE Malyong Evrard
+
 
 ## TP 1 – Chiffrement authentifié et dérivation de clés
 
@@ -31,6 +32,4 @@ Un serveur web nginx en TLS avec authentification du client par certificat, puis
 - `capture_tls13.pcap` : capture d'une connexion TLS 1.3.
 - `compte_rendu_tp3.docx` : compte rendu.
 
-## Remarque
 
-Aucune clé privée n'est déposée dans ce dépôt. Les clés sont générées par les scripts à l'exécution.
