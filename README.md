@@ -1,6 +1,5 @@
 # Module EC1 – Ingénierie de la cryptographie
 
-Travaux pratiques individuels, année universitaire 2026–2027.
 
 Nom :  DABIRE Malyong Evrard
 
